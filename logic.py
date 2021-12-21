@@ -14,7 +14,7 @@ else:
 
 #using 'not' operator
 voterage=int(input("enter age"))
-if not voterage>=18:
+if not voterage>=17:
     print("not eligible for voteing")
 else:
     print(" eligible for voteing")    
